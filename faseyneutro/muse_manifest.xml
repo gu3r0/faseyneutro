@@ -1,0 +1,213 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.faceyneutro.com" resolutions="1x" timestamp="1486141474906">
+  <folder name="css">
+    <file name="site_global.css" crc="3820526031"/>
+    <file name="compra-y-ventas.css" crc="3918623405" ref="compra-y-ventas"/>
+    <file name="contactos.css" crc="261185797" ref="contactos"/>
+    <file name="servicios.css" crc="4237602988" ref="servicios"/>
+    <file name="index.css" crc="240744772" ref="index"/>
+    <file name="suscribete.css" crc="429896728" ref="suscribete"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:contactos:servicios:compra-y-ventas:suscribete"/>
+    <file name="museutils.js" crc="183364071" ref="index:contactos:servicios:compra-y-ventas:suscribete"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:contactos:servicios:compra-y-ventas:suscribete"/>
+    <file name="webpro.js" crc="3803554875" ref="index:contactos:servicios:compra-y-ventas"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:servicios:compra-y-ventas"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:servicios:compra-y-ventas"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:servicios:compra-y-ventas"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:contactos:servicios:compra-y-ventas:suscribete"/>
+    <file name="form_check.php" crc="277267350" ref="contactos"/>
+    <file name="form_throttle.php" crc="3908387251" ref="contactos"/>
+    <file name="form_process.php" crc="24249335" ref="contactos"/>
+    <file name="form-u2445.php" crc="4258073236" ref="contactos"/>
+    <file name="pie.js" crc="3827607177" ref="compra-y-ventas:index"/>
+  </folder>
+  <folder name="images">
+    <file name="iconotwitter.png" crc="442740775" seo="true" ref="index:contactos:servicios:compra-y-ventas:suscribete"/>
+    <file name="iconoface.png" crc="434775123" seo="true" ref="index:contactos:servicios:compra-y-ventas:suscribete"/>
+    <file name="iconoinstagram.png" crc="3919861160" seo="true" ref="index:contactos:servicios:compra-y-ventas:suscribete"/>
+    <file name="publicidad1.jpg" crc="364595250" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contactos:servicios:compra-y-ventas:suscribete"/>
+    <file name="publicidad2.jpg" crc="4248424879" seo="true" ref="index"/>
+    <file name="publicidad3.jpg" crc="213112330" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:compra-y-ventas"/>
+    <file name="pointerb.png" crc="3780694765" seo="true" ref="index:contactos:servicios:compra-y-ventas:suscribete"/>
+    <file name="face-neutronegro.png" crc="135198025" seo="true" ref="index"/>
+    <file name="icononosotros.png" crc="383177196" seo="true" ref="index"/>
+    <file name="vision-icon.png" crc="3959953950" seo="true" ref="index"/>
+    <file name="dymo_logosvg.png" crc="255442248" seo="true" ref="index"/>
+    <file name="logo-metrologic.jpg" crc="162602453" seo="true" ref="index"/>
+    <file name="honeywell-logo.jpg" crc="171613446" seo="true" ref="index"/>
+    <file name="symbol_technologies_logosvg.png" crc="4016858594" seo="true" ref="index"/>
+    <file name="publicidad6.jpg" crc="64179994" seo="true" ref="index"/>
+    <file name="publicidad5.jpg" crc="442542398" seo="true" ref="index"/>
+    <file name="publicidad7.jpg" crc="221552537" seo="true" ref="index"/>
+    <file name="publicidad9.jpg" crc="327723521" seo="true" ref="index"/>
+    <file name="publicidad8.jpg" crc="4078847030" seo="true" ref="index"/>
+    <file name="publicidad4.jpg" crc="386213191" seo="true" ref="index"/>
+    <file name="u2870-4-a.png" crc="316007892" ref="index"/>
+    <file name="u2852.png" crc="3899531449" ref="index"/>
+    <file name="u2852-r.png" crc="429673579" ref="index"/>
+    <file name="u2862.png" crc="3972877380" ref="index"/>
+    <file name="u2862-r.png" crc="3919751999" ref="index"/>
+    <file name="u2874.png" crc="274130036" ref="index"/>
+    <file name="u2874-r.png" crc="76198732" ref="index"/>
+    <file name="misionicono.png" crc="116144501" seo="true" ref="index"/>
+    <file name="titulocontactanos.jpg" crc="4035405786" seo="true" ref="contactos"/>
+    <file name="u3457.png" crc="316007892" ref="contactos"/>
+    <file name="u3457-r.png" crc="385153418" ref="contactos"/>
+    <file name="u3453.png" crc="3899531449" ref="contactos"/>
+    <file name="u3453-r.png" crc="429673579" ref="contactos"/>
+    <file name="u3463.png" crc="3972877380" ref="contactos"/>
+    <file name="u3463-r.png" crc="3919751999" ref="contactos"/>
+    <file name="u3451-4-a.png" crc="274130036" ref="contactos"/>
+    <file name="u1563-4.png" crc="3854583043" ref="contactos"/>
+    <file name="u3475-4.png" crc="104698839" ref="contactos"/>
+    <file name="u2453.png" crc="273103522" ref="contactos"/>
+    <file name="u2453-ferr.png" crc="3899430706" ref="contactos"/>
+    <file name="u2461.png" crc="4056606515" ref="contactos"/>
+    <file name="u2461-ferr.png" crc="20885826" ref="contactos"/>
+    <file name="u2457-17.png" crc="3921837937" ref="contactos"/>
+    <file name="u2457-17-r.png" crc="42083444" ref="contactos"/>
+    <file name="u2457-17-m.png" crc="4053193199" ref="contactos"/>
+    <file name="u2457-17-fs.png" crc="3834073658" ref="contactos"/>
+    <file name="u2448.png" crc="3765592317" ref="contactos"/>
+    <file name="u2448-ferr.png" crc="3759541992" ref="contactos"/>
+    <file name="serviciotecnicoportada.jpg" crc="4022788667" seo="true" ref="servicios"/>
+    <file name="u2893.png" crc="316007892" ref="servicios"/>
+    <file name="u2893-r.png" crc="385153418" ref="servicios"/>
+    <file name="u2895-4-a.png" crc="3899531449" ref="servicios"/>
+    <file name="u2899.png" crc="3972877380" ref="servicios"/>
+    <file name="u2899-r.png" crc="3919751999" ref="servicios"/>
+    <file name="u2889.png" crc="274130036" ref="servicios"/>
+    <file name="u2889-r.png" crc="76198732" ref="servicios"/>
+    <file name="iconoreparado.png" crc="3759062238" seo="true" ref="servicios"/>
+    <file name="u2169-4.png" crc="4008126284" ref="servicios"/>
+    <file name="modelozebra.jpg" crc="312965671" ref="servicios"/>
+    <file name="modelodedymo.jpg" crc="500705430" ref="servicios"/>
+    <file name="zebra-technologies-logo-old-1024x768xswd.png" crc="4076025844" seo="true" ref="servicios"/>
+    <file name="dymo_logo.png" crc="3948476717" seo="true" ref="servicios"/>
+    <file name="u2194-4.png" crc="206305996" ref="servicios"/>
+    <file name="modelodemetrologic.jpg" crc="3904956492" ref="servicios"/>
+    <file name="modelodesymbol.jpg" crc="3798171081" ref="servicios"/>
+    <file name="modelodehoneywell.jpg" crc="143184287" ref="servicios"/>
+    <file name="metrologic_logo.png" crc="4102835273" seo="true" ref="servicios"/>
+    <file name="symbol_technologies_logo.png" crc="3984058540" seo="true" ref="servicios"/>
+    <file name="honeywell-logo.png" crc="4121564003" seo="true" ref="servicios"/>
+    <file name="u2292-4.png" crc="4200567558" ref="servicios"/>
+    <file name="modelosreparacion.jpg" crc="407767941" ref="servicios"/>
+    <file name="modelosrevision.jpg" crc="4007568934" ref="servicios"/>
+    <file name="comprayventaportada.jpg" crc="3905466613" seo="true" ref="compra-y-ventas"/>
+    <file name="u2721.png" crc="316007892" ref="compra-y-ventas"/>
+    <file name="u2721-r.png" crc="385153418" ref="compra-y-ventas"/>
+    <file name="u2722.png" crc="3899531449" ref="compra-y-ventas"/>
+    <file name="u2722-r.png" crc="429673579" ref="compra-y-ventas"/>
+    <file name="u2723-4-a.png" crc="3972877380" ref="compra-y-ventas"/>
+    <file name="u2724.png" crc="274130036" ref="compra-y-ventas"/>
+    <file name="u2724-r.png" crc="76198732" ref="compra-y-ventas"/>
+    <file name="u2716.png" crc="320291873" ref="compra-y-ventas"/>
+    <file name="u2716-r.png" crc="277375447" ref="compra-y-ventas"/>
+    <file name="u2717_states.png" crc="466535760" ref="compra-y-ventas"/>
+    <file name="u2717_states-r.png" crc="4176305813" ref="compra-y-ventas"/>
+    <file name="u2718_states.png" crc="427101043" ref="compra-y-ventas"/>
+    <file name="u2718_states-r.png" crc="119526612" ref="compra-y-ventas"/>
+    <file name="u2719_states.png" crc="3936129251" ref="compra-y-ventas"/>
+    <file name="u2719_states-r.png" crc="4066276782" ref="compra-y-ventas"/>
+    <file name="u2720_states.png" crc="3883006986" ref="compra-y-ventas"/>
+    <file name="u2720_states-r.png" crc="3810490255" ref="compra-y-ventas"/>
+    <file name="u2720_states-m.png" crc="3810490255" ref="compra-y-ventas"/>
+    <file name="impresora-de-etiquetas-jumbo-dymo-labelwriter-4xl-4-x-6-3534-mlm4442177412_062013-f.jpg" crc="157368636" seo="true" ref="compra-y-ventas"/>
+    <file name="41otyyn1jhl.jpg" crc="4224549293" seo="true" ref="compra-y-ventas"/>
+    <file name="61lx-6ytwol.jpg" crc="528711418" seo="true" ref="compra-y-ventas"/>
+    <file name="1289207508.jpg" crc="4213480403" seo="true" ref="compra-y-ventas"/>
+    <file name="lp2824plus-zebra-550x582.jpg" crc="3877603341" seo="true" ref="compra-y-ventas"/>
+    <file name="s4m.jpg" crc="51236339" seo="true" ref="compra-y-ventas"/>
+    <file name="zebra-gc420.jpg" crc="4269671675" seo="true" ref="compra-y-ventas"/>
+    <file name="impresora-de-etiquetas-jumbo-dymo-labelwriter-4xl-4-x-6-3534-mlm4442177412_062013-f-crop-u2527.jpg" crc="3890095058" ref="compra-y-ventas"/>
+    <file name="41otyyn1jhl-crop-u3125.jpg" crc="487232737" ref="compra-y-ventas"/>
+    <file name="61lx-6ytwol-crop-u3134.jpg" crc="284969939" ref="compra-y-ventas"/>
+    <file name="1289207508-crop-u3152.jpg" crc="4001192500" ref="compra-y-ventas"/>
+    <file name="lp2824plus-zebra-550x582-crop-u3170.jpg" crc="370850744" ref="compra-y-ventas"/>
+    <file name="s4m-crop-u3179.jpg" crc="8945268" ref="compra-y-ventas"/>
+    <file name="zebra-gc420-crop-u3188.jpg" crc="3823557401" ref="compra-y-ventas"/>
+    <file name="u2939-4.png" crc="437957532" ref="compra-y-ventas"/>
+    <file name="compra.png" crc="371557297" seo="true" ref="compra-y-ventas"/>
+    <file name="venta.png" crc="276088116" seo="true" ref="compra-y-ventas"/>
+    <file name="1360683210.jpg" crc="235074406" seo="true" ref="compra-y-ventas"/>
+    <file name="honeywell_ms3580.jpg" crc="4104671705" seo="true" ref="compra-y-ventas"/>
+    <file name="honeywell-lector-laser-de-codigo-de-barras-omnidireccional-y-de-una-linea-fusion-3780-lector-de-codigo-de-barras-laser-omnidireccional-y-con-capacidad-de-una-linea-fijo-en-su-base-y.jpg" crc="4128591039" seo="true" ref="compra-y-ventas"/>
+    <file name="lector-codigo-barras-metrologic-ms7820.jpg" crc="98648480" seo="true" ref="compra-y-ventas"/>
+    <file name="lector-codigo-de-barras-honeywell-mk5145-metrologic-909411-mla20557199389_012016-o.jpg" crc="48880826" seo="true" ref="compra-y-ventas"/>
+    <file name="metrologic_mk7120_gris.jpg" crc="236933155" seo="true" ref="compra-y-ventas"/>
+    <file name="metrologic_voyager_ms_9520_lector_codigo_barras_usb_negro.jpg" crc="3771873565" seo="true" ref="compra-y-ventas"/>
+    <file name="symbol_li2208.jpg" crc="371668053" seo="true" ref="compra-y-ventas"/>
+    <file name="136068321054x62.jpg" crc="4032533979" seo="true" ref="compra-y-ventas"/>
+    <file name="honeywell_ms3580-crop-u3283.jpg" crc="330254647" ref="compra-y-ventas"/>
+    <file name="honeywell-lector-laser-de-codigo-de-barras-omnidireccional-y-de-una-linea-fusion-3780-lector-de-codigo-de-barras-laser-omnidireccional-y-con-capacidad-de-una-linea-fijo-en-su-base-y54x54.jpg" crc="4010116791" seo="true" ref="compra-y-ventas"/>
+    <file name="lector-codigo-de-barras-honeywell-mk5145-metrologic-909411-mla20557199389_012016-o-crop-u3319.jpg" crc="220071999" ref="compra-y-ventas"/>
+    <file name="metrologic_mk7120_gris54x54.jpg" crc="400465028" seo="true" ref="compra-y-ventas"/>
+    <file name="metrologic_voyager_ms_9520_lector_codigo_barras_usb_negro54x54.jpg" crc="267709293" seo="true" ref="compra-y-ventas"/>
+    <file name="symbol_li220854x54.jpg" crc="270990255" seo="true" ref="compra-y-ventas"/>
+    <file name="u2658-4.png" crc="389735461" ref="compra-y-ventas"/>
+    <file name="35180-7176221.jpg" crc="3760128013" seo="true" ref="compra-y-ventas"/>
+    <file name="58278-4197965.jpg" crc="372102843" seo="true" ref="compra-y-ventas"/>
+    <file name="dsc_0003_nordgas_prodotti.jpg" crc="3781491594" seo="true" ref="compra-y-ventas"/>
+    <file name="35180-717622170x45.jpg" crc="4014278235" seo="true" ref="compra-y-ventas"/>
+    <file name="58278-419796560x47.jpg" crc="4066552072" seo="true" ref="compra-y-ventas"/>
+    <file name="dsc_0003_nordgas_prodotti68x45.jpg" crc="167118671" seo="true" ref="compra-y-ventas"/>
+    <file name="u2659-4.png" crc="472408826" ref="compra-y-ventas"/>
+    <file name="p430corto.jpg" crc="4094336363" seo="true" ref="compra-y-ventas"/>
+    <file name="p430corto-crop-u2606.jpg" crc="3817564350" ref="compra-y-ventas"/>
+    <file name="u2660-4.png" crc="267802284" ref="compra-y-ventas"/>
+    <file name="u2661-4.png" crc="4167057248" ref="compra-y-ventas"/>
+    <file name="u3529.png" crc="316007892" ref="suscribete"/>
+    <file name="u3529-r.png" crc="385153418" ref="suscribete"/>
+    <file name="u3521.png" crc="3899531449" ref="suscribete"/>
+    <file name="u3521-r.png" crc="429673579" ref="suscribete"/>
+    <file name="u3519.png" crc="3972877380" ref="suscribete"/>
+    <file name="u3519-r.png" crc="3919751999" ref="suscribete"/>
+    <file name="u3527.png" crc="274130036" ref="suscribete"/>
+    <file name="u3527-r.png" crc="76198732" ref="suscribete"/>
+    <file name="u3569-4.png" crc="4035836637" ref="index"/>
+    <file name="u3574-4.png" crc="191726519" ref="index"/>
+    <file name="u3571-4.png" crc="328954324" ref="index"/>
+    <file name="face-neutronegroblanco.png" crc="295853712" seo="true" ref="index:contactos:servicios:compra-y-ventas:suscribete"/>
+    <file name="u3813-8.png" crc="235669549" ref="index"/>
+    <file name="u3811-9.png" crc="3759761636" ref="index"/>
+    <file name="u3812-9.png" crc="147890787" ref="index"/>
+    <file name="zebra-technologies-logo-old-1024x768.png" crc="3894604972" seo="true" ref="index"/>
+    <file name="eltron_logo_1.png" crc="215875327" seo="true" ref="index:servicios"/>
+    <file name="logointro.png" crc="3804994540" seo="true" ref="index:contactos:servicios:compra-y-ventas:suscribete"/>
+    <file name="2396378-tarjeta-electronica-sin-fisuras-vector-papel-tapiz-crop-u3700.jpg" crc="4027094585" ref="contactos"/>
+    <file name="2396378-tarjeta-electronica-sin-fisuras-vector-papel-tapiz-crop-u3706.jpg" crc="3852015317" ref="contactos"/>
+    <file name="u3804-4.png" crc="4134121340" ref="contactos"/>
+    <file name="phone-icon-109778.png" crc="3809154130" seo="true" ref="contactos"/>
+    <file name="u3797-4.png" crc="3801135743" ref="contactos"/>
+    <file name="modeloseltron.jpg" crc="40712205" ref="servicios"/>
+    <file name="u999-4.png" crc="531428928" ref="servicios"/>
+    <file name="u940-4.png" crc="4280640275" ref="servicios"/>
+    <file name="u3676-4.png" crc="4233594819" ref="servicios"/>
+    <file name="u2488-7.png" crc="3849646312" ref="compra-y-ventas"/>
+    <file name="u2496-8.png" crc="302897102" ref="compra-y-ventas"/>
+    <file name="u2500-6.png" crc="4293668483" ref="compra-y-ventas"/>
+    <file name="cabezal-de-impresión-cabezal-de-impresión-de-zebra-tlp2824-lp2824-2824-g105910-148-g105910-102-impresoras.jpg" crc="129300241" seo="true" ref="compra-y-ventas"/>
+    <file name="cabezales de impresión para zebra zebra tlp-2844.jpg" crc="138040031" seo="true" ref="compra-y-ventas"/>
+    <file name="motor de pasos de reemplazo.jpg" crc="3977468643" seo="true" ref="compra-y-ventas"/>
+    <file name="puertoparalelo-380x380.jpg" crc="473864222" seo="true" ref="compra-y-ventas"/>
+    <file name="zebra cleaning kits.jpg" crc="44896451" seo="true" ref="compra-y-ventas"/>
+    <file name="cabezal-de-impresión-cabezal-de-impresión-de-zebra-tlp2824-lp2824-2824-g105910-148-g105910-102-impresoras-crop-u2638.jpg" crc="4081680016" ref="compra-y-ventas"/>
+    <file name="cabezales de impresión para zebra zebra tlp-284474x45.jpg" crc="383262100" seo="true" ref="compra-y-ventas"/>
+    <file name="motor de pasos de reemplazo67x45.jpg" crc="62370928" seo="true" ref="compra-y-ventas"/>
+    <file name="puertoparalelo-380x380-crop-u3777.jpg" crc="3782762521" ref="compra-y-ventas"/>
+    <file name="zebra cleaning kits60x47.jpg" crc="147430767" seo="true" ref="compra-y-ventas"/>
+    <file name="u2504-10.png" crc="4031406327" ref="compra-y-ventas"/>
+    <file name="u3677-4.png" crc="531428928" ref="compra-y-ventas"/>
+    <file name="u3678-4.png" crc="4280640275" ref="compra-y-ventas"/>
+    <file name="u3681-4.png" crc="4233594819" ref="compra-y-ventas"/>
+  </folder>
+  <file name="index.html" crc="219752722" seo="true" mt="1470316712842" redirect="true"/>
+  <file name="contactos.html" crc="4201440968" seo="true" mt="1486140205681" redirect="true"/>
+  <file name="servicios.html" crc="4273743174" seo="true" mt="1486140165938" redirect="true"/>
+  <file name="compra-y-ventas.html" crc="134335895" seo="true" mt="1469889827404" redirect="true"/>
+  <file name="suscribete.html" crc="158680277" seo="true" mt="1469766658340" redirect="true"/>
+</manifest>
