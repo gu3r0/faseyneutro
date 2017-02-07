@@ -1,0 +1,759 @@
+.version.servicios__compras /* version checker */
+{
+	color: #000013;
+	background-color: #F689F1;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1080px;
+	min-height: 1605.9999999999936px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -43px;
+	margin-bottom: -69px;
+	width: 0.01px;
+}
+
+#u1335
+{
+	z-index: 33;
+	min-height: 45px;
+	background-color: #000000;
+	padding-bottom: 44px;
+}
+
+#u1373
+{
+	z-index: 37;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 1047px;
+}
+
+#u1375
+{
+	z-index: 35;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 1088px;
+}
+
+#u1354
+{
+	z-index: 39;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 1130px;
+}
+
+#u1335-bw
+{
+	z-index: 33;
+	min-height: 45px;
+}
+
+#u1336
+{
+	z-index: 41;
+	width: 712px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: -13px;
+	left: 169px;
+}
+
+#pbuttonu1341
+{
+	width: 0.01px;
+	margin-right: -10000px;
+}
+
+#buttonu1341
+{
+	z-index: 70;
+	width: 162px;
+	height: 43px;
+	border-style: solid;
+	border-color: #050505;
+	background-color: #939393;
+	position: relative;
+	margin-right: -10000px;
+	border-width: 0px 1px;
+}
+
+#pbuttonu1341:hover #buttonu1341
+{
+	width: 163px;
+	height: 43px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FAAFE4;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+#u1343
+{
+	z-index: 71;
+	width: 20px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#pbuttonu1341:hover #u1343
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	position: relative;
+	width: 20px;
+	margin-right: -10000px;
+	left: 51px;
+	min-height: 0px;
+}
+
+#u1342-4
+{
+	z-index: 73;
+}
+
+#pbuttonu1341 #u1342-4
+{
+	position: relative;
+	width: 64px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 43px;
+}
+
+#pbuttonu1341:hover #u1342-4
+{
+	position: relative;
+	width: 64px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 44px;
+}
+
+#pbuttonu1337
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 168px;
+}
+
+#buttonu1337
+{
+	z-index: 61;
+	width: 180px;
+	height: 43px;
+	border-style: solid;
+	border-color: #050505;
+	background-color: #939393;
+	position: relative;
+	margin-right: -10000px;
+	border-width: 0px 1px;
+}
+
+#pbuttonu1337:hover #buttonu1337
+{
+	width: 181px;
+	height: 43px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FAAFE4;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+#u1338
+{
+	z-index: 62;
+	width: 20px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#pbuttonu1337:hover #u1338
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	position: relative;
+	width: 20px;
+	margin-right: -10000px;
+	left: 51px;
+	min-height: 0px;
+}
+
+#u1340-4
+{
+	z-index: 64;
+}
+
+#pbuttonu1337 #u1340-4
+{
+	position: relative;
+	width: 103px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 36px;
+}
+
+#pbuttonu1337:hover #u1340-4
+{
+	position: relative;
+	width: 103px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 37px;
+}
+
+#pbuttonu1345
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 354px;
+}
+
+#buttonu1345
+{
+	z-index: 52;
+	width: 186px;
+	height: 44px;
+	border-style: solid;
+	border-color: #050505;
+	background-color: #939393;
+	position: relative;
+	margin-right: -10000px;
+	border-width: 0px 1px;
+}
+
+#pbuttonu1345:hover #buttonu1345
+{
+	width: 187px;
+	height: 44px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FAAFE4;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+#u1347
+{
+	z-index: 53;
+	width: 20px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#pbuttonu1345:hover #u1347
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	position: relative;
+	width: 20px;
+	margin-right: -10000px;
+	left: 51px;
+	min-height: 0px;
+}
+
+#u1346-4
+{
+	z-index: 55;
+	display: block;
+	vertical-align: top;
+}
+
+#pbuttonu1345 #u1346-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 2px;
+}
+
+#pbuttonu1345:hover #u1346-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 3px;
+}
+
+#pbuttonu1349
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 543px;
+}
+
+#buttonu1349
+{
+	z-index: 43;
+	width: 167px;
+	height: 44px;
+	border-style: solid;
+	border-color: #050505;
+	background-color: #939393;
+	position: relative;
+	margin-right: -10000px;
+	border-width: 0px 1px;
+}
+
+#pbuttonu1349:hover #buttonu1349
+{
+	width: 168px;
+	height: 44px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FAAFE4;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+#u1350
+{
+	z-index: 44;
+	width: 20px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#pbuttonu1349:hover #u1350
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	position: relative;
+	width: 20px;
+	margin-right: -10000px;
+	left: 51px;
+	min-height: 0px;
+}
+
+#pbuttonu1341.ButtonSelected #u1343,#pbuttonu1337.ButtonSelected #u1338,#pbuttonu1345.ButtonSelected #u1347,#pbuttonu1349.ButtonSelected #u1350
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	width: 20px;
+	min-height: 0px;
+}
+
+#pbuttonu1341 #u1343,#pbuttonu1337 #u1338,#pbuttonu1345 #u1347,#pbuttonu1349 #u1350
+{
+	position: relative;
+	width: 20px;
+	margin-right: -10000px;
+	left: 50px;
+}
+
+#u1352-4
+{
+	z-index: 46;
+}
+
+#u1342-4_img,#u1340-4_img,#u1352-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#pbuttonu1349 #u1352-4
+{
+	position: relative;
+	width: 121px;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 22px;
+}
+
+#pbuttonu1349:hover #u1352-4
+{
+	position: relative;
+	width: 121px;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 23px;
+}
+
+#u1380
+{
+	z-index: 31;
+	width: 701px;
+	background-color: transparent;
+	margin-left: 215px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u1334
+{
+	z-index: 34;
+	height: 43px;
+	background-color: #000000;
+}
+
+#u1334-bw
+{
+	z-index: 34;
+	margin-top: 9px;
+	height: 43px;
+}
+
+#pu1353
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: 45px;
+}
+
+#u1353
+{
+	z-index: 82;
+	width: 1040px;
+	height: 89px;
+	background-color: #7F7F7F;
+	opacity: 0.38;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=38)";
+	filter: alpha(opacity=38);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1385-4
+{
+	z-index: 83;
+	width: 334px;
+	min-height: 38px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	left: 341px;
+}
+
+#u1553-4
+{
+	z-index: 87;
+	width: 334px;
+	min-height: 38px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 341px;
+}
+
+#u1385-2,#u1553-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1385,#u1553
+{
+	font-size: 30px;
+	color: #FFFFFF;
+	line-height: 36px;
+}
+
+#pu1386
+{
+	width: 0.01px;
+	margin-left: 50px;
+	margin-top: 106px;
+}
+
+#u1386
+{
+	z-index: 78;
+	width: 411px;
+	height: 328px;
+	background-color: #7F7F7F;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1550
+{
+	z-index: 80;
+	width: 411px;
+	height: 328px;
+	background-color: #7F7F7F;
+	position: relative;
+	margin-right: -10000px;
+	left: 573px;
+}
+
+#pu1552
+{
+	width: 0.01px;
+	margin-left: 51px;
+	margin-top: 66px;
+}
+
+#u1552
+{
+	z-index: 79;
+	width: 411px;
+	height: 328px;
+	background-color: #7F7F7F;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1551
+{
+	z-index: 81;
+	width: 411px;
+	height: 328px;
+	background-color: #7F7F7F;
+	position: relative;
+	margin-right: -10000px;
+	left: 573px;
+}
+
+#pu1368
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: 109px;
+}
+
+#u1368
+{
+	z-index: 15;
+	width: 170px;
+	background-color: transparent;
+	opacity: 0.51;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=51)";
+	filter: alpha(opacity=51);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 59px;
+}
+
+#u1363
+{
+	z-index: 19;
+	width: 311px;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 59px;
+	left: 178px;
+}
+
+#u1358
+{
+	z-index: 23;
+	width: 81px;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 508px;
+}
+
+#u1366
+{
+	z-index: 17;
+	width: 223px;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 57px;
+	left: 603px;
+}
+
+#u1382
+{
+	z-index: 21;
+	width: 204px;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 47px;
+	left: 836px;
+}
+
+#u1360
+{
+	z-index: 2;
+	min-height: 86px;
+	background-color: #000000;
+	padding-bottom: 45px;
+}
+
+#u1335_align_to_page,#u1360_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1080px;
+	position: relative;
+	left: -100px;
+}
+
+#u1361
+{
+	z-index: 27;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 100px;
+}
+
+#u1378
+{
+	z-index: 25;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 141px;
+}
+
+#u1370
+{
+	z-index: 29;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 183px;
+}
+
+#pu1384-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 41px;
+	margin-left: 531px;
+}
+
+#u1384-4
+{
+	z-index: 11;
+	width: 224px;
+	min-height: 21px;
+	background-color: transparent;
+	color: #FFFFFF;
+	margin-left: 37px;
+	position: relative;
+}
+
+#u1377-4
+{
+	z-index: 3;
+	width: 224px;
+	min-height: 21px;
+	background-color: transparent;
+	color: #FFFFFF;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u1357-4
+{
+	z-index: 7;
+	width: 224px;
+	min-height: 21px;
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 41px;
+	left: 962px;
+}
+
+#u1360-bw
+{
+	z-index: 2;
+	min-height: 86px;
+	margin-top: 15px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1080px;
+	padding-top: 36px;
+	padding-bottom: 69px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
